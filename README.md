@@ -33,6 +33,9 @@ This is a Power BI dashboard project built using Amazon’s sample sales data as
 
 _Add 1-2 screenshots of your dashboard here for visual preview._
 
+
+## Dashboard ![Amazon Sales Dashboard - 1](https://github.com/user-attachments/assets/7b1e7a3f-6dc6-4971-9f3e-2e48b563c989)
+
 ## 🔗 Live Demo (Optional)
 https://www.loom.com/share/623df36dacba419daecb9f7f7410d8da?sid=b0477bc5-f01c-41c6-9384-f375e806ef44
 ## 🙌 Connect with Me
